@@ -1,0 +1,121 @@
+ #New_window1 {
+halign:center;
+height:fill;
+width:fill;
+layout:vbox;
+}
+ #viewPage0 {
+halign:center;
+height:fill;
+width:fill;
+background:#F5F5F5;
+layout:vbox;
+}
+ #wpanel3 {
+halign:center;
+height:wrap;
+valign:TOP;
+width:fill;
+layout:vbox;
+}
+ #wimage0 {
+height:238;
+width:fill;
+}
+ #wpanel0 {
+height:110;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #wimagebutton0 {
+icon-height:25;
+height:fill;
+weight:1;
+color:#ffffff;
+text-align:right;
+font-size:14;
+background:#fb9714;
+width:0;
+icon-background-image:weather.png;
+icon-width:25;
+icon-text-spacing:14;
+}
+ #wimagebutton1 {
+icon-height:25;
+height:fill;
+weight:1;
+color:#ffffff;
+text-align:right;
+font-size:14;
+background:#50494f;
+width:0;
+icon-background-image:landmark.png;
+icon-width:25;
+icon-text-spacing:14;
+}
+ #wpanel1 {
+height:110;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #wimagebutton2 {
+icon-height:25;
+height:fill;
+weight:1;
+color:#ffffff;
+text-align:right;
+font-size:14;
+background:#d2280c;
+width:0;
+icon-background-image:rest.png;
+icon-width:25;
+icon-text-spacing:14;
+}
+ #wimagebutton3 {
+icon-height:25;
+height:fill;
+weight:1;
+color:#ffffff;
+text-align:right;
+font-size:14;
+background:#0f5c85;
+width:0;
+icon-background-image:message.png;
+icon-width:25;
+icon-text-spacing:14;
+}
+ #wpanel2 {
+height:110;
+layout:hbox;
+width:fill;
+valign:center;
+}
+ #wimagebutton4 {
+icon-height:25;
+height:fill;
+weight:1;
+color:#ffffff;
+text-align:right;
+font-size:14;
+background:#4b6671;
+width:0;
+icon-background-image:listing.png;
+icon-width:25;
+icon-text-spacing:14;
+}
+ #wimagebutton5 {
+icon-height:25;
+height:fill;
+weight:1;
+color:#ffffff;
+text-align:right;
+font-size:14;
+background:#2db7b7;
+width:0;
+icon-background-image:information.png;
+icon-width:25;
+icon-text-spacing:14;
+}
+
